@@ -1,0 +1,77 @@
+{
+  "book_id": "romantic-german-symbolist-exile-diaspora",
+  "title": "The Fossilized Sob of Dawn",
+  "tagline": "An exiled artist in neutral Switzerland confronts the ghosts of his homeland, finding that the deepest wounds resonate in silence, not in sound.",
+  "target_words": 75537,
+  "actual_words": 75537,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Weight of Exile",
+    "Art as Memory and Ghost",
+    "The Pathology of Nationalism",
+    "The Search for Subsurface Truth"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Pale Cathedral of Transit",
+      "words": 6294
+    },
+    {
+      "ch": 2,
+      "title": "The Ghost-Tap of Enzian",
+      "words": 6294
+    },
+    {
+      "ch": 3,
+      "title": "A Lodestone in the Hinterhaus",
+      "words": 6294
+    },
+    {
+      "ch": 4,
+      "title": "Conspirators of Wet Stone",
+      "words": 6294
+    },
+    {
+      "ch": 5,
+      "title": "A Vibration in the Bone",
+      "words": 6294
+    },
+    {
+      "ch": 6,
+      "title": "Suspended in Amber Silence",
+      "words": 6294
+    },
+    {
+      "ch": 7,
+      "title": "The Golden Gaze of Dawn",
+      "words": 6294
+    },
+    {
+      "ch": 8,
+      "title": "A Flaw in the Metal",
+      "words": 6294
+    },
+    {
+      "ch": 9,
+      "title": "The Seething, Liquid Silence",
+      "words": 6294
+    },
+    {
+      "ch": 10,
+      "title": "Grit in the City's Bloodstream",
+      "words": 6294
+    },
+    {
+      "ch": 11,
+      "title": "The Fossilized Sob",
+      "words": 6294
+    },
+    {
+      "ch": 12,
+      "title": "A Sigh, Not a Roar",
+      "words": 6294
+    }
+  ]
+}
